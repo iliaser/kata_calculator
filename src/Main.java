@@ -128,7 +128,7 @@ public class Main {
                 i -= 5;
             } else if (i >= 4) {
                 romanNum += "IV";
-                i -= 5;
+                i -= 4;
             } else {
                 romanNum += "I";
                 i -= 1;
